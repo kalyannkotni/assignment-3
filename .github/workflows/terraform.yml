@@ -1,1 +1,7 @@
-
+# install kubectl, awscli, configure aws creds
+# install terraform and update tf_api_token
+# create vpc, eks, eks-nodegroups 
+# update kubeconfig
+# deploy cluster with deployment and service.yaml
+# echo service with the help of kubectl commands
+# access that endpoint over the internet
