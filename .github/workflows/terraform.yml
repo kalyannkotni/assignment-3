@@ -8,7 +8,7 @@
 
 # code starts
 
-name: Install Tools
+name: Deploy-EKS-Cluster
 
 on:
   workflow_dispatch:
